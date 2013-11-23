@@ -4,3 +4,11 @@
   margin: 10px auto;
   padding: 40px;
 }
+.header {
+  width: 300px;
+  float: left;
+}
+.scores {
+  width: 180px;
+  float: right;
+}
